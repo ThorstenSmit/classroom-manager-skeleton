@@ -62,3 +62,5 @@ Dieses Video deckt exakt die Kernkonzepte ab, die wir in den kommenden Unterrich
 ### 💡 Tipp für das Selbststudium:
 
 Nutze die oben angegebenen Zeitstempel, um gezielt Themen zu wiederholen, falls dir beim Programmieren unseres Classroom-Managers Unklarheiten bei der Komponentenstruktur oder den npm-Befehlen begegnen.
+
+Smit, 2026
